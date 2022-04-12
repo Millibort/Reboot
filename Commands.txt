@@ -1,1 +1,4 @@
 Pi-1-Shutdown
+Pi-1-ShutDown
+Pi-1-Shutoff
+Pi-1-ShutOff
